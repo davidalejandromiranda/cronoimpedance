@@ -4,21 +4,23 @@ This project demonstrates the processing of electrical impedance data over time 
 
 ## How to cite this work?
 
-Miranda, D. 2023, "davidalejandromiranda/cronoimpedance," Zenodo, doi:
+David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Time evolution of electrical impedance spectra of Staphylococcus aureus and Escherichia coli bacteria (v1.0). Zenodo. https://doi.org/10.5281/zenodo.8175756
 
 ## DOI
 
+[![DOI](https://zenodo.org/badge/669695092.svg)](https://zenodo.org/badge/latestdoi/669695092)
+
 ## BibTeX
 
-@software{Miranda2020,
+@software{Miranda2023,
   author       = {David A. Miranda},
-  title        = {{davidalejandromiranda/cronoimpedance}},
+  title        = {davidalejandromiranda/cronoimpedance: Time evolution of electrical impedance spectra of Staphylococcus aureus and Escherichia coli bacteria},
   month        = jul,
   year         = 2023,
   publisher    = {Zenodo},
   version      = {v1.0},
-  doi          = {10.5281/zenodo.},
-  url          = {https://doi.org/}
+  doi          = {10.5281/zenodo.8175756},
+  url          = {https://doi.org/10.5281/zenodo.8175756}
 }
 
 ## Licence
