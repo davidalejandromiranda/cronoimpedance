@@ -20,7 +20,7 @@ David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Ti
   publisher    = {Zenodo},
   version      = {v1.0},
   doi          = {10.5281/zenodo.8175756},
-  url          = {https://doi.org/10.5281/zenodo.8175756}
+  url          = {[https://doi.org/10.5281/zenodo.8175756](https://doi.org/10.5281/zenodo.8175756)}
 }
 
 ## Licence
