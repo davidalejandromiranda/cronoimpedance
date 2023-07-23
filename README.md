@@ -4,9 +4,9 @@ This project demonstrates the processing of electrical impedance data over time 
 
 ## How to cite this work?
 
-David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Time evolution of electrical impedance spectra of Staphylococcus aureus and Escherichia coli bacteria (v1.0). Zenodo. https://doi.org/10.5281/zenodo.8175756
+David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Time evolution of electrical impedance spectra of Staphylococcus aureus and Escherichia coli bacteria (v1.0). Zenodo. [https://doi.org/10.5281/zenodo.8175756](https://doi.org/10.5281/zenodo.8175756)
 
-## DOI
+## DOI
 
 [![DOI](https://zenodo.org/badge/669695092.svg)](https://zenodo.org/badge/latestdoi/669695092)
 
