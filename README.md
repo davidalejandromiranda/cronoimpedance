@@ -12,6 +12,7 @@ David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Ti
 
 ## BibTeX
 
+```
 @software{Miranda2023,
   author       = {David A. Miranda},
   title        = {davidalejandromiranda/cronoimpedance: Time evolution of electrical impedance spectra of Staphylococcus aureus and Escherichia coli bacteria},
@@ -22,6 +23,7 @@ David Alejandro Miranda Mercado (2023). davidalejandromiranda/cronoimpedance: Ti
   doi          = {10.5281/zenodo.8175756},
   url          = {[https://doi.org/10.5281/zenodo.8175756](https://doi.org/10.5281/zenodo.8175756)}
 }
+```
 
 ## Licence
 
