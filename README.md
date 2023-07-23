@@ -1,6 +1,6 @@
 # cronoimpedance
 
-This project demonstrates the processing of electrical impedance data over time to predict time-dependent phenomena. The Jupyter Notebook titled *paper1_Saureus_Ecoli.ipynb* allows you to visualize the experimental data and evaluate the time evolution of electrical impedance spectra for *Staphylococcus aureus* and *Escherichia coli bacteria*.
+This project demonstrates the processing of electrical impedance data over time to predict time-dependent phenomena. The Jupyter Notebook titled [*paper1_Saureus_Ecoli.ipynb*](https://github.com/davidalejandromiranda/cronoimpedance/blob/main/paper1_Saureus_Ecoli.ipynb) allows you to visualize the experimental data and evaluate the time evolution of electrical impedance spectra for *Staphylococcus aureus* and *Escherichia coli bacteria*.
 
 ## How to cite this work?
 
